@@ -1,4 +1,4 @@
-
+## Hi there
 
 <h1 align="center">System.out.println("Hello There");</h1>
 
@@ -6,7 +6,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <p align="left">I'm Angelo Gabriel<br><br>- 💻 Java Developer.<br>- 📚 Studying Java, Database and Design Patterns.<br>- 🔭 I am looking for my first job opportunity.</p>
 

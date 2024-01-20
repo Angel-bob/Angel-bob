@@ -1,5 +1,3 @@
-## Hi there
-
 <h1 align="center">System.out.println("Hello There");</h1>
 
 ###
